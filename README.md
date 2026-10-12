@@ -1,9 +1,7 @@
 # Frontassign4
 
 **Name:** Kairov Adilbek
-
 **Group:** It-2501
-Open `index.html` in a browser. All five tasks are on this page, with JavaScript included at the bottom of the HTML file. Bootstrap CSS is kept separately in `css/bootstrap.min.css`. These forms demonstrate frontend validation; data is not sent to a server.
 
 ## Part 1. Basic HTML Forms
 
@@ -11,19 +9,16 @@ Open `index.html` in a browser. All five tasks are on this page, with JavaScript
 
 A basic contact form with labeled name and email inputs, a message textarea, and a Submit button.
 
-<!-- Add the corresponding browser screenshot here: screenshots/task0.png -->
-Screenshot pending.
+<img width="1777" height="977" alt="Снимок экрана 2026-10-12 121311" src="https://github.com/user-attachments/assets/a92343eb-55b5-4ad7-91fd-8d3c8c6fe928" />
+
 
 
 ### Task 1. Form with HTML5 Validation
 
 The contact form uses required fields, type="email", and maxlength limits. Empty fields and invalid email addresses are blocked by the browser.
 
-<!-- Add the corresponding browser screenshot here: screenshots/task1.png -->
-Screenshot pending.
+<img width="1501" height="852" alt="image" src="https://github.com/user-attachments/assets/f5a2ebd2-75f4-4990-8836-22ca36d06344" />
 
-<!-- Add the corresponding browser screenshot here: screenshots/task1-invalid.png -->
-Screenshot pending.
 
 
 ## Part 2. Bootstrap Forms
@@ -32,19 +27,15 @@ Screenshot pending.
 
 The contact form uses Bootstrap form-control, form-label, helper text, placeholders, and a responsive grid. Name and email share a row on medium and larger screens.
 
-<!-- Add the corresponding browser screenshot here: screenshots/task2.png -->
-Screenshot pending.
+<img width="1917" height="844" alt="image" src="https://github.com/user-attachments/assets/7c8f380d-b484-45fd-a383-41b8abeec6e8" />
+
 
 
 ### Task 3. Bootstrap Validation Styles
 
 JavaScript checks HTML validity and applies is-valid or is-invalid. Feedback appears below the inputs after submission and updates while editing.
 
-<!-- Add the corresponding browser screenshot here: screenshots/task3-invalid.png -->
-Screenshot pending.
-
-<!-- Add the corresponding browser screenshot here: screenshots/task3-valid.png -->
-Screenshot pending.
+<img width="1889" height="833" alt="image" src="https://github.com/user-attachments/assets/b609e66f-aca9-4ab5-8d9e-58ea98d3827c" />
 
 
 ## Part 3. Advanced Form Project
@@ -53,14 +44,8 @@ Screenshot pending.
 
 A responsive registration form includes first and last name, email, password and confirmation, gender radio buttons, hobby checkboxes, a country dropdown, and Submit and Reset buttons. Passwords require at least eight characters and must match. Hobbies are optional. Reset clears both values and validation styles.
 
-<!-- Add the corresponding browser screenshot here: screenshots/task4-invalid.png -->
-Screenshot pending.
+<img width="1776" height="1208" alt="image" src="https://github.com/user-attachments/assets/65623c30-91d5-4a8e-8920-b429eb7ce82e" />
 
-<!-- Add the corresponding browser screenshot here: screenshots/task4-valid.png -->
-Screenshot pending.
-
-<!-- Add the corresponding browser screenshot here: screenshots/task4-mobile.png -->
-Screenshot pending.
 
 ## Work process summary
 
